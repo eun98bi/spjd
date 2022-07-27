@@ -1,2 +1,13 @@
 body { text-align: center; }
+
+.title { font-size: 20px; font-weight: bold;}
+.sub {}
+.box {
+    margin: 0 auto;
+    width: 1000px;
+}
+.thumbnail {
+    width: 300px;
+}
+
 .coupang { color: #e56a2c; font-size: 10px; }
