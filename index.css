@@ -11,3 +11,31 @@ body { text-align: center; }
 }
 
 .coupang { color: #e56a2c; font-size: 10px; }
+
+
+@media screen and (max-width: 1000px) {
+	.box {
+    width: 800px;
+}
+.thumbnail {
+    width: 250px;
+} 
+}
+
+@media screen and (max-width: 800px) {
+	.box {
+    width: 700px;
+}
+.thumbnail {
+    width: 200px;
+} 
+}
+
+@media screen and (max-width: 500px) {
+	.box {
+    width: 90%;
+}
+.thumbnail {
+    width: 28%;
+} 
+}
